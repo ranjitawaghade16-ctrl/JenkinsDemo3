@@ -10,7 +10,7 @@ namespace JenkinsDemo3
     {
         public int Add(int a, int b)
         {
-           int c = a + b;
+           int c = a + b
             return c;
         }
 
